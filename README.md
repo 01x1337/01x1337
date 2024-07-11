@@ -3,7 +3,7 @@
   <a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/tsWPiuaqqbGasfUEFq/video.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">whoami? <width="24px"></h1>
+<h1 align="center">whoami<width="24px"></h1>
 
 
 <h1 align="center"><width="12px">root@wanted</h1>
