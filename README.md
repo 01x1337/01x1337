@@ -21,10 +21,10 @@
 
 ## Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwanted&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=420y&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages"/>
 </p>
 
 ## GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xwanted&theme=high-contrast" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=420y&theme=high-contrast" alt="GitHub Activity Graph"/>
 </p>
