@@ -1,14 +1,12 @@
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/ee/e8/43/eee8431910fbcdaa786ddd7b7a56c44e.gif" width="70%" alt="Big Image" /></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/f1/eb/a0/f1eba09749f72888d17f62c3ae0c7e7e.gif" width="70%" alt="Big Image" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/ee/e8/43/eee8431910fbcdaa786ddd7b7a56c44e.gif" width="30%" alt="Small Image" style="margin-right: 20px; vertical-align: middle;" /></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/ee/e8/43/eee8431910fbcdaa786ddd7b7a56c44e.gif" width="30%" alt="Old Image" style="margin-right: 20px; vertical-align: middle;" /></a>
   <strong style="vertical-align: middle;">Hi, I'm Wanted, and I Love Drugs</strong>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://giphy.com/embed/tsWPiuaqqbGasfUEFq/video.gif" width="100%" alt="GIF" /></a>
 </p>
 
 
