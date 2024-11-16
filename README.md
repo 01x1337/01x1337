@@ -13,11 +13,9 @@
 <h3 align="center">Socials</h3>
 <p align="center">
 <a href="https://www.instagram.com/0xwanted/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
- <a href="https://discordapp.com/users/326722334771904512/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/5d5047fc-24ee-4a82-8115-89f7353b7286)
-" alt="sujay_adkesar" height="30" width="40" /></a>
+ <a href="https://discordapp.com/users/326722334771904512/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discord_logo.svg/1024px-Discord_logo.svg.png" alt="discord" height="30" width="40" /></a>
 </p>
 <br><br><br>
-
 
 &nbsp;
 &nbsp;
