@@ -32,7 +32,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=420y&theme=high-contrast" alt="GitHub Activity Graph"/>
 </p>
 
-## 🚀 Latest Project
+## 🐍 GitHub Contribution Snake
 <p align="center">
-  <a href="https://github.com/420y"><img src="https://github-readme-stats.vercel.app/api/pin/?username=420y&repo=420y" alt="Latest Project"/></a>
+  <img src="https://raw.githubusercontent.com/Fransuelton/Fransuelton/e6c683ab36ad4554986d6a99af35320d43a62766/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
