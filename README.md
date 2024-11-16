@@ -12,14 +12,8 @@
 
 <h3 align="center">Socials</h3>
 <p align="center">
-<a href="https://www.instagram.com/0xwanted/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_adkesar" height="30" width="40" /></a>
- <a href="https://discordapp.com/users/326722334771904512/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discord_logo.svg/1024px-Discord_logo.svg.png" alt="discord" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/0xwanted/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="420y" height="30" width="40" /></a>
 <br><br><br>
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 <b>⚙️My GitHub Stats:</b>
 
