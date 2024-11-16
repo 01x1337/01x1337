@@ -1,7 +1,7 @@
 <!-- Very small old image next to the text -->
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/d7/48/ca/d748caa0ffc9c604a10beedc75d4775f.gif" width="125%" alt="Old Image" style="margin-right: 55px; vertical-align: middle;" /></a>
-  <span style="font-size: 50px; vertical-align: middle;">Hi, I'm Wanted, and I Love Drugs</span>
+  <a href="#"><img src="https://i.pinimg.com/originals/d7/48/ca/d748caa0ffc9c604a10beedc75d4775f.gif" width="125%" alt="Old Image" style="margin-right: 35px; vertical-align: middle;" /></a>
+  <span style="font-size: 70px; vertical-align: middle;">Hi, I'm Wanted, and I Love Drugs</span>
 </p>
 
 
