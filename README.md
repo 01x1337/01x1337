@@ -1,12 +1,12 @@
+<!-- Very small big image at the top -->
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/f1/eb/a0/f1eba09749f72888d17f62c3ae0c7e7e.gif" width="70%" alt="Big Image" /></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/f1/eb/a0/f1eba09749f72888d17f62c3ae0c7e7e.gif" width="10%" alt="Big Image" /></a>
 </p>
 
+<!-- Very small old image next to the text -->
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/ee/e8/43/eee8431910fbcdaa786ddd7b7a56c44e.gif" width="30%" alt="Old Image" style="margin-right: 20px; vertical-align: middle;" /></a>
-  <strong style="vertical-align: middle;">Hi, I'm Wanted, and I Love Drugs</strong>
-</p>
-
+  <a href="#"><img src="https://i.pinimg.com/originals/ee/e8/43/eee8431910fbcdaa786ddd7b7a56c44e.gif" width="5%" alt="Old Image" style="margin-right: 5px; vertical-align: middle;" /></a>
+  <span style="font-size: 10px; vertical-align: middle;">Hi, I'm Wanted, and I Love Drugs</span>
 </p>
 
 
