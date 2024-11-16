@@ -1,15 +1,11 @@
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/f1/eb/a0/f1eba09749f72888d17f62c3ae0c7e7e.gif" height="175px"/></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/f1/eb/a0/f1eba09749f72888d17f62c3ae0c7e7e.gif" width="70%" alt="Image" /></a>
 </p>
-
-
+<h1 align="center">Hi, I'm Wanted and I Love Drugs</h1>
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/tsWPiuaqqbGasfUEFq/video.gif" height="175px"/></a>
+  <a href="#"><img src="https://giphy.com/embed/tsWPiuaqqbGasfUEFq/video.gif" width="100%" alt="GIF" /></a>
 </p>
 
-<h1 align="center">whoami</h1>
-
-<h1 align="center">root@wanted</h1>
 
 ## Connect with Me
 <p align="center">
